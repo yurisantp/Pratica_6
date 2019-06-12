@@ -26,12 +26,8 @@ namespace Pratica_6
             Console.WriteLine("         |6 - Sair                                |");
             Console.WriteLine("         \\---------------------------------------/");
 
-           
 
-
-
-            asdasdasd
-
+            
         }
     }
 }
