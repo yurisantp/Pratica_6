@@ -27,7 +27,7 @@ namespace Pratica_6
             Console.WriteLine("         \\---------------------------------------/");
 
 
-            
+            fuckin test
         }
     }
 }
